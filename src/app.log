@@ -1,0 +1,2 @@
+2024-09-17 00:35:01,793 - app - INFO - Received recommend by location request: {'location': '양양'}
+2024-09-17 00:35:01,813 - app - INFO - Recommend by location result: {'recommended_activities': ['서핑', '스쿠버다이빙', '다이빙'], 'recommended_dates': ['2024-09-18', '2024-09-18', '2024-09-18']}

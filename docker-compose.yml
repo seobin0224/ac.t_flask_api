@@ -1,0 +1,14 @@
+version: "3.4"
+
+services:
+  actflaskapi:
+    image: actflaskapi
+    build:
+      dockerfile: ./Dockerfile
+    environment:
+      - FLASK_ENV=production
+      - FLASK_APP=app.py
+      - MONGO_URI=mongodb+srv://jeewon:chrishin808@cluster0.u5njbyq.mongodb.net/actapp
+    ports:
+      - "5003:5003"
+    command: ["gunicorn", "-b", "0.0.0.0:5003", "app:app"]

@@ -1,0 +1,182 @@
+{
+  "철원": {
+    "climate_zone": "영서북부",
+    "winter_temp": -7,
+    "summer_temp": 24,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 150,
+    "summer_precipitation": 800,
+    "snow_days": 30,
+    "foggy_days": 10
+  },
+  "화천": {
+    "climate_zone": "영서북부",
+    "winter_temp": -7,
+    "summer_temp": 24,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 150,
+    "summer_precipitation": 800,
+    "snow_days": 30,
+    "foggy_days": 10
+  },
+  "양구": {
+    "climate_zone": "영서북부",
+    "winter_temp": -7,
+    "summer_temp": 24,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 150,
+    "summer_precipitation": 800,
+    "snow_days": 30,
+    "foggy_days": 10
+  },
+  "인제": {
+    "climate_zone": "영서북부",
+    "winter_temp": -7,
+    "summer_temp": 24,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 150,
+    "summer_precipitation": 800,
+    "snow_days": 30,
+    "foggy_days": 10
+  },
+  "춘천": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "홍천": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "원주": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "횡성": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "영월": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "평창": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  },
+  "속초": {
+    "climate_zone": "영동북부",
+    "winter_temp": 0,
+    "summer_temp": 24,
+    "annual_precipitation": 1400,
+    "winter_precipitation": 200,
+    "summer_precipitation": 700,
+    "snow_days": 20,
+    "foggy_days": 20
+  },
+  "고성": {
+    "climate_zone": "영동북부",
+    "winter_temp": 0,
+    "summer_temp": 24,
+    "annual_precipitation": 1400,
+    "winter_precipitation": 200,
+    "summer_precipitation": 700,
+    "snow_days": 20,
+    "foggy_days": 20
+  },
+  "양양": {
+    "climate_zone": "영동북부",
+    "winter_temp": 0,
+    "summer_temp": 24,
+    "annual_precipitation": 1400,
+    "winter_precipitation": 200,
+    "summer_precipitation": 700,
+    "snow_days": 20,
+    "foggy_days": 20
+  },
+  "강릉": {
+    "climate_zone": "영동북부",
+    "winter_temp": 0,
+    "summer_temp": 24,
+    "annual_precipitation": 1400,
+    "winter_precipitation": 200,
+    "summer_precipitation": 700,
+    "snow_days": 20,
+    "foggy_days": 20
+  },
+  "동해": {
+    "climate_zone": "영동남부",
+    "winter_temp": -1,
+    "summer_temp": 23,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 180,
+    "summer_precipitation": 650,
+    "snow_days": 22,
+    "foggy_days": 18
+  },
+  "삼척": {
+    "climate_zone": "영동남부",
+    "winter_temp": -1,
+    "summer_temp": 23,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 180,
+    "summer_precipitation": 650,
+    "snow_days": 22,
+    "foggy_days": 18
+  },
+  "태백": {
+    "climate_zone": "영동남부",
+    "winter_temp": -1,
+    "summer_temp": 23,
+    "annual_precipitation": 1300,
+    "winter_precipitation": 180,
+    "summer_precipitation": 650,
+    "snow_days": 22,
+    "foggy_days": 18
+  },
+  "정선": {
+    "climate_zone": "영서남부",
+    "winter_temp": -4,
+    "summer_temp": 25,
+    "annual_precipitation": 1250,
+    "winter_precipitation": 100,
+    "summer_precipitation": 750,
+    "snow_days": 25,
+    "foggy_days": 15
+  }
+}

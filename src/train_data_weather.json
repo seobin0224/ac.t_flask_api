@@ -1,0 +1,272 @@
+[
+  {
+    "name": "번지 점프",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "60",
+    "wind_speed": "5",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "루지",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "55",
+    "wind_speed": "7",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "자전거 하이킹",
+    "temperature_min": "15",
+    "temperature_max": "28",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "흐림"
+  },
+  {
+    "name": "골프",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "짚라인",
+    "temperature_min": "15",
+    "temperature_max": "28",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "레일바이크",
+    "temperature_min": "15",
+    "temperature_max": "28",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스카이 글라이더",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "50",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "페러 글라이딩",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "50",
+    "wind_speed": "7",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스카이 사이클",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "서킷주행",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "60",
+    "wind_speed": "8",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "카트/ATV",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "60",
+    "wind_speed": "8",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스쿠터",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스키/보드",
+    "temperature_min": "-5",
+    "temperature_max": "5",
+    "humidity": "50",
+    "wind_speed": "8",
+    "precipitation": "눈",
+    "sky_status": "흐림"
+  },
+  {
+    "name": "눈썰매",
+    "temperature_min": "-5",
+    "temperature_max": "5",
+    "humidity": "50",
+    "wind_speed": "8",
+    "precipitation": "눈",
+    "sky_status": "흐림"
+  },
+  {
+    "name": "어트렉션",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스케이트",
+    "temperature_min": "-5",
+    "temperature_max": "10",
+    "humidity": "50",
+    "wind_speed": "8",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "알파인코스터",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "60",
+    "wind_speed": "6",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "승마",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "60",
+    "wind_speed": "5",
+    "precipitation": "없음",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "트래킹",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "70",
+    "wind_speed": "6",
+    "precipitation": "비",
+    "sky_status": "흐림"
+  },
+  {
+    "name": "스노쿨링",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "80",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "스쿠버 다이빙",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "80",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "다이빙",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "80",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "수상스키",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "빠지",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "패들보드",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "보트/배",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "카약",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "래프팅",
+    "temperature_min": "15",
+    "temperature_max": "30",
+    "humidity": "70",
+    "wind_speed": "7",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "서핑",
+    "temperature_min": "20",
+    "temperature_max": "30",
+    "humidity": "80",
+    "wind_speed": "6",
+    "precipitation": "비",
+    "sky_status": "맑음"
+  },
+  {
+    "name": "낚시",
+    "temperature_min": "10",
+    "temperature_max": "25",
+    "humidity": "70",
+    "wind_speed": "5",
+    "precipitation": "비",
+    "sky_status": "흐림"
+  }
+]
